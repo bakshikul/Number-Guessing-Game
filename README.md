@@ -17,22 +17,22 @@ Once guessed correctly, the game ends</p>
 Module: random</p>
 <h3>▶️ How to Run the Program</h3>
 <p>Ensure Python is installed on your system (Python 3 recommended).
-Clone this repository:
+Clone this repository:<br>
 git clone https://github.com/bakshikul/Number_Guessing_Game_Code.git
 Navigate to the project directory:
 cd Number_Guessing_Game_Code
-Run the Python file
+Run the Python file<br>
 python number_guessing_game.py</p>
   <h3>🚀 Learning Objectives</h3>
-  <p>Understand Python syntax
-Use the random module
-Handle user input
-Apply loops and conditional logic
+  <p>Understand Python syntax<br>
+Use the random module<br>
+Handle user input<br>
+Apply loops and conditional logic<br>
 Build confidence with Git and GitHub</p>
 </main>
 <footer>
   <h3>⭐️Acknowledgement</h3>
-  <p>This project is created for learning and practice purposes.
+  <p>This project is created for learning and practice purposes.<br>
 Feel free to fork, modify, and improve it.</p>
   <hr>
 © 2025 • Built and maintained by Kul Bakshi
