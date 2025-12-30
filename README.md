@@ -18,7 +18,7 @@ Module: random</p>
 <h3>▶️ How to Run the Program</h3>
 <p>Ensure Python is installed on your system (Python 3 recommended).
 Clone this repository:
-git clone https://github.com/your-username/Number_Guessing_Game_Code.git
+git clone https://github.com/bakshikul/Number_Guessing_Game_Code.git
 Navigate to the project directory:
 cd Number_Guessing_Game_Code
 Run the Python file
