@@ -16,10 +16,10 @@ Once guessed correctly, the game ends</p>
 <p>Language: Python<br>
 Module: random</p>
 <h3>▶️ How to Run the Program</h3>
-<p>Ensure Python is installed on your system (Python 3 recommended).
+<p>-Ensure Python is installed on your system (Python 3 recommended).
 Clone this repository:<br>
 git clone https://github.com/bakshikul/Number-Guessing-Game.git<br>
-Navigate to the project directory:<br>
+-Navigate to the project directory:<br>
 cd Number_Guessing_Game_Code
 Run the Python file<br>
 python number_guessing_game.py</p>
