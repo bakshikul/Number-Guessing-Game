@@ -24,11 +24,11 @@ cd Number_Guessing_Game_Code
 Run the Python file<br>
 python number_guessing_game.py</p>
   <h3>🚀 Learning Objectives</h3>
-  <p>Understand Python syntax<br>
-Use the random module<br>
-Handle user input<br>
-Apply loops and conditional logic<br>
-Build confidence with Git and GitHub</p>
+  <p>● Understand Python syntax<br>
+● Use the random module<br>
+● Handle user input<br>
+● Apply loops and conditional logic<br>
+● Build confidence with Git and GitHub</p>
 </main>
 <footer>
   <h3>⭐️Acknowledgement</h3>
